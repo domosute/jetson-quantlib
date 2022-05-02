@@ -1,0 +1,20 @@
+package:
+  name: quantlib
+  version: 1.26
+  
+source:
+  url: https://github.com/lballabio/QuantLib/releases/download/QuantLib-v1.26/QuantLib-1.26.tar.gz
+  
+requirements:
+  build:
+    - m4
+    - automake
+    - autoconf
+    - libtool
+    - boost
+  run:
+
+about:
+  home: http://www.quantlib.org/
+  license: https://github.com/lballabio/QuantLib/blob/master/LICENSE.TXT
+  summary: "QuantLib: A free/open-source library for quantitative finance"
