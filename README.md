@@ -1,4 +1,4 @@
-# conda-quantlib
+# jetson-quantlib
 Jupyter Lab notebook with Quantlib Docker image for NVIDIA Jetson platform
 
 - Used [docker-anaconda](https://hub.docker.com/r/continuumio/anaconda3) as a base image.
